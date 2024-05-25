@@ -1,0 +1,5 @@
+LIBRARY "ntpatch"
+EXPORTS
+execute_payload
+patch_memory
+hook_function
